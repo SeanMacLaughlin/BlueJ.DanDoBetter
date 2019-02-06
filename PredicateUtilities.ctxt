@@ -1,6 +1,5 @@
 #BlueJ class context
 comment0.target=PredicateUtilities
-comment0.text=\n\ Created\ by\ dan\ on\ 6/14/17.\n
 comment1.params=x\ y
 comment1.target=java.lang.Boolean\ isGreaterThan(int,\ int)
 comment1.text=\n\ @param\ x\n\ @param\ y\n\ @return\ true\ if\ `x`\ is\ greater\ than\ `y`\n
